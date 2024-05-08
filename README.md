@@ -1,18 +1,17 @@
+# Hello, I'm [Your Name]
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Bin01102003/) 
+I'm a Unity Game Developer based in Da Nang, Vietnam. I'm passionate about game development, and I love creating immersive experiences for players.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Annguyen011&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Annguyen011&theme=great-gatsby&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Annguyen011&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Annguyen011&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
+## Skills and Technologies
 
----
-[![](https://visitcount.itsvg.in/api?id=Annguyen011&icon=0&color=0)](https://visitcount.itsvg.in)
+- **Programming Languages:** C#, C++
+- **Game Engines:** Unity
+- **Tools and Software:** Git, Visual Studio
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Contact
+
+- GitHub: [github.com/Annguyen011](https://github.com/Annguyen011)
+- Facebook: [facebook.com/Bin01102003](https://www.facebook.com/Bin01102003/)
+- YouTube: [youtube.com/channel/UCYtJxlAo2o42YZOehgoZHgg](https://www.youtube.com/channel/UCYtJxlAo2o42YZOehgoZHgg)
+- Email: nguyenvanan01102003@gmail.com
