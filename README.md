@@ -1,6 +1,7 @@
 # Hello, I'm Gyu
 
-I'm a Unity Game Developer based in Da Nang, Vietnam. I'm passionate about game development, and I love creating immersive experiences for players.
+I'm a Unity Game Developer based in Da Nang, Vietnam. 
+I'm passionate about game development, and I love creating immersive experiences for players.
 
 ## Skills and Technologies
 
