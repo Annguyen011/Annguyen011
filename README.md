@@ -5,7 +5,7 @@ I'm passionate about game development, and I love creating immersive experiences
 
 ## Skills and Technologies
 
-- **Programming Languages:** C#.
+- **Programming Languages:** C#, Python, Verilog.
 - **Game Engines:** Unity
 - **Tools and Software:** Git, Visual Studio
 
