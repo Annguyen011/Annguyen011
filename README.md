@@ -1,17 +1,17 @@
-# Hello, I'm Gyu
+Hello, I'm Gyu 👋
+🚀 AI & IC Design Engineer | Python & Verilog Enthusiast
 
-I'm a Unity Game Developer based in Da Nang, Vietnam. 
-I'm passionate about game development, and I love creating immersive experiences for players.
+Tôi là một kỹ sư thiết kế vi mạch (IC Design Engineer) với niềm đam mê về AI on-chip, lập trình Python, Verilog và các công nghệ liên quan đến thiết kế IC. Tôi luôn tìm kiếm những cách tối ưu hóa hiệu suất hệ thống và phát triển các giải pháp sáng tạo trong lĩnh vực AI hardware acceleration.
 
-## Skills and Technologies
+🛠 Skills and Technologies
+🔹 Hardware Design: VLSI, FPGA, ASIC, RTL Design
+🔹 Programming Languages: Python 🐍, Verilog 🔩
+🔹 EDA Tools: Cadence Virtuoso, Synopsys Design Compiler, Microwind
+🔹 AI & Embedded Systems: AI on-chip, Edge Computing
 
-- **Programming Languages:** C#, Python, Verilog.
-- **Game Engines:** Unity
-- **Tools and Software:** Git, Visual Studio
+📬 Contact Me
 
-## Contact
-
-- GitHub:   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Annguyen011)  
-- Facebook: [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/Bin01102003/)  
-- YouTube:  [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCYtJxlAo2o42YZOehgoZHgg)  
-- Email:    nguyenvanan01102003@gmail.com
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Annguyen011)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/Bin01102003/)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCYtJxlAo2o42YZOehgoZHgg)  
+📧 **Email:** [nguyenvanan01102003@gmail.com](mailto:nguyenvanan01102003@gmail.com)
